@@ -7,12 +7,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Include overview here:
+This pet app will help pet owners determine which household plants and garden plants which are safe or toxic to their pets.
+
 ### Features
-Include Features here
+Include Features here:
+1. User Profile Creation
+2. Save Profile
+3. Add a pet in user profile
+4. Delete a pet in user profile
+5. Search plants toxic and non-toxic based on pet profile
+
 ### Technologies
-Include Technologies here
+Include Technologies here:
+ASP.NET
+C# (Back End/Front End)
+MYSQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Include what you will need to learn here:
+*Become more familiar with MYSQL
+*Basic Pet and Plant Information
+*Authentication
+
 ### Project Tracker
-Link to your Trello board here
+Link to your Trello board here:
+https://trello.com/b/NCJE2Gvi/launchcode
